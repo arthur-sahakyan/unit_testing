@@ -1,0 +1,22 @@
+{
+  "name": "unit_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./**/*-test.js"
+  },
+  "keywords": [],
+  "author": "Arthur Sahakyan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "rewire": "^6.0.0",
+    "sinon": "^15.0.4"
+  },
+  "dependencies": {
+    "chai-as-promised": "^7.1.1",
+    "mongoose": "^7.1.0",
+    "sinon-chai": "^3.7.0"
+  }
+}
