@@ -1,1 +1,1 @@
-run npm test for running all testes
+run npm test for running all tests
